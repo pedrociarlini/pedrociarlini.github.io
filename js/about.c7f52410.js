@@ -1,2 +1,2 @@
 "use strict";(self["webpackChunknew_chord_parser"]=self["webpackChunknew_chord_parser"]||[]).push([[443],{653:function(n,r,e){e.r(r),e.d(r,{default:function(){return l}});var s=function(){var n=this;n._self._c;return n._m(0)},t=[function(){var n=this,r=n._self._c;return r("div",{staticClass:"about"},[r("h1",[n._v("This is an about page")])])}],u=e(1001),a={},c=(0,u.Z)(a,s,t,!1,null,null,null),l=c.exports}}]);
-//# sourceMappingURL=about.18f53bcf.js.map
+//# sourceMappingURL=about.c7f52410.js.map
